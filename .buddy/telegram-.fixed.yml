@@ -1,7 +1,0 @@
-- pipeline: telegram
-  refs:
-  - refs/heads/main
-  events:
-  - type: WEBHOOK
-  execution_message_template: ккуу
-  fail_on_prepare_env_warning: true
